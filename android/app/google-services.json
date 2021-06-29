@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072158726398",
+    "project_id": "magic-heat",
+    "storage_bucket": "magic-heat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072158726398:android:e2b1499be6f5ce9a40edaf",
+        "android_client_info": {
+          "package_name": "com.allure.magicHeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072158726398-cfhgugvcdm62a6lv2etpsn48413jlegk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFyIcss1yIYq0znbUYfpffbcG3GDHt-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072158726398-cfhgugvcdm62a6lv2etpsn48413jlegk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
